@@ -1,0 +1,9 @@
+[package]
+name = "actix-web-test"
+version = "0.1.0"
+authors = ["Mahdi Robatipoor <mahdi.robatipoor@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "2"
+actix-rt = "1"
